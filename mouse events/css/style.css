@@ -1,0 +1,11 @@
+body{font-family: Arial, Helvetica, sans-serif;}
+h1{text-align: center;}
+#box {
+    padding: 10px;
+    height: auto;
+    width: 500px;
+    border: 2px solid #d00;
+    border-image:linear-gradient(to right, red, yellow, red) 10;
+    margin: auto;
+    margin-top: 50px;
+}
